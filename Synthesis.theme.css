@@ -28,7 +28,7 @@ Join Salt's Discord Themes server! https://discord.gg/uy8nKQVatp
 @import url("https://saltssaumure.github.io/synthesis-discord-theme/synth.min.css");
 
 :root {
-    --background-image: url(https://raw.githubusercontent.com/SkyRay0/synthesis-discord-theme/1274d7df51e6bf1000157f87ad6bdb686f5b7a75/backgrounds/UBpaj2pJtag.jpg); /* Background image. Values: any image link encased in url(). See GitHub readme for recommended images! */
+    --background-image: url(https://raw.githubusercontent.com/SkyRay0/synthesis-discord-theme/b7b39266ae081186536a630383c478b4503636fd/backgrounds/UBpaj2pJtag.jpg); /* Background image. Values: any image link encased in url(). See GitHub readme for recommended images! */
     --tint-overlay: rgba(255, 165, 0, 0.1); /* Tint over the whole "viewport". Default: rgba(255, 165, 0, 0.1). */
     --crt-scanline-light: rgba(255, 255, 255, 0.05); /* CRT monitor light scanline stripe tone. Default: rgba(255, 255, 255, 0.05). */
     --crt-scanline-dark: rgba(0, 0, 0, 0.1); /* CRT monitor dark scanline stripe tone. Default: rgba(0, 0, 0, 0.1). */
